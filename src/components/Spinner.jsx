@@ -1,7 +1,7 @@
 import React from "react";
 
-function Sipnner() {
+function Spinner() {
   return <div className="spinner"></div>;
 }
 
-export default Sipnner;
+export default Spinner;
